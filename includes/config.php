@@ -13,7 +13,7 @@ $CONF['name'] = 'phpSound';
 $CONF['url'] = 'http://localhost/Music/';
 
 // The Notifications e-mail
-$CONF['email'] = 'notifications@yourdomain.com';
+$CONF['email'] = 'notifications@tazamamusic.com';
 
 // The themes directory
 $CONF['theme_path'] = 'themes';
